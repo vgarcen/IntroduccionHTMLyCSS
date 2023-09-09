@@ -4,14 +4,14 @@ h1{
    /* https://coolors.co/palettes/trending*/
  }
  p{
-     color:white;
+     color:grey;
      background-color: #8ecae6;
-     padding: 25px;
-     border: 40px solid blue;
-/*     margin: 40px 10px 10px 10px;  top right bottom left.*/
+     padding:20px;
+     border: 20px solid blue;
+/*     margin: 40px 10px 10px 10px;  top right bottom left.
       margin-top: 40px;
      margin-right: 10px;
      margin-botton: 10px;
-     margin-left:10px;
+     margin-left:10px;*/
      text-align:center;
  }
