@@ -29,5 +29,12 @@ a:visited, a:link{
 a:hover, a:active{
     background-color: #f72585;
 }
+table{
+    width: 100%
+}
+table, th, td{
+    border 1px solid black;
+    border-collapse: collapse;
+    padding: 5px;
     
     
