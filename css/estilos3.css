@@ -2,9 +2,10 @@
   margin: 0px;
   padding: 0px;
 }
-h1{
+.titulo{
   color: #f72585;
   text-align:center;
+  margin: 15px; /*sobre escribe al elemento * porque es una etiqueta particular*/
 }
 h2{
   color: #3f37c9;
